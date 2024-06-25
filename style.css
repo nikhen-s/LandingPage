@@ -181,3 +181,11 @@ body{
     font-weight: bold;
 }
 
+.bottomContainer{
+    background-color: #1F2937;
+    height: 100px;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    align-content: center;
+}
